@@ -18,9 +18,10 @@ Fire up your command prompt again, switch to your node.js app folder and install
 > npm install mongodb
 
 once it's all Done you are ready to run this demo:
-open command prompt and run following command:
+open command prompt and move to working directory then run following command:
 
-D:\Node_JS\test_api>node server.js
+> node server.js
+
 We are live on 8000
 
 You will get response like this !! That's all done.
