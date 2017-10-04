@@ -1,0 +1,23 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "demo api",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "test",
+    "api"
+  ],
+  "author": "shivam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
